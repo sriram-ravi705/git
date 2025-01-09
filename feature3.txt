@@ -1,1 +1,1 @@
-hello from master brach
+hello for mergeconflict file
